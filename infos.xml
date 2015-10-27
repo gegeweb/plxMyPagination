@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[plxMyPagination]]></title>
+	<author><![CDATA[Gérald N.]]></author>
+	<version>1.0</version>
+	<date>26/10/2015</date>
+	<site>http://blog.gegeweb.org</site>
+	<description><![CDATA[Améliore la pagination standard de pluXML.
+	Ajoute une pagination pour les groupes de pages statiques.]]></description>
+	<requirements>Font Awesome</requirements>
+</document>

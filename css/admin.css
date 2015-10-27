@@ -1,0 +1,62 @@
+/*
+ * plxMyPagination
+ * Feuille de style de présentation de la paginatin dans l'administration.
+ *
+ */
+ 
+/* div conteneur */
+#pagination {
+	clear: both;
+	margin-top: 1em;
+	text-align: center;
+	border: 1px dotted #ccc;
+	padding: .5em;
+}
+
+ul.pagination {
+    display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+/* pagination */
+ul.pagination li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+ul.pagination li .pagenav {
+	float: left;
+}
+
+ul.pagination li a:hover {
+	color: #ddd;
+	background: #444;
+	text-decoration: none;
+}
+
+.pagenav {
+	display: inline-block;
+	margin: .1em;
+	padding: .75em .5em;
+	font-size: .75em;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+ul.pagination li .p_current, .p_current {
+	background: #444;
+	color: #ccc;
+	font-weight: bold;
+}
+
+.p_pager {
+	font-size: .75em;
+	margin-bottom: 0;
+	margin-top: .5em;
+}
+
+.hide {
+	display: none;
+}
