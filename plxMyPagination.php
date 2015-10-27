@@ -1,9 +1,9 @@
 <?php
 /**
  *
- * Plugin	staticPagination
+ * Plugin	plxMyPagination
  * @author	Gérald Niel
- ° @version	1.0
+ * @version	1.0
  * @date	26/10/2015 
  **/
 class plxMyPagination extends plxPlugin {
